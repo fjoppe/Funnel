@@ -19,7 +19,7 @@ let routeStep = From("file://C:/Users/Frank/Source/Workspaces/Funnel/TestData?in
                     =>= To("log:Test")
                     =>= Process(inout)
                     =>= To("log:Test")
- 
+
 
 Register routeStep
 PrintRoutes()
