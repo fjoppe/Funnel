@@ -1,0 +1,9 @@
+C:\Users\Frank\Source\Workspaces\Funnel\Funnel.Core\Funnel.Core\bin\Debug\Funnel.Core.XML
+C:\Users\Frank\Source\Workspaces\Funnel\Funnel.Core\Funnel.Core\bin\Debug\Funnel.Core.dll
+C:\Users\Frank\Source\Workspaces\Funnel\Funnel.Core\Funnel.Core\bin\Debug\Funnel.Core.pdb
+C:\Users\Frank\Source\Workspaces\Funnel\Funnel.Core\Funnel.Core\bin\Debug\FSharp.Core.dll
+C:\Users\Frank\Source\Workspaces\Funnel\Funnel.Core\Funnel.Core\bin\Debug\FSharp.Core.xml
+C:\Users\Frank\Source\Workspaces\Funnel\Funnel.Core\Funnel.Core\obj\Debug\Funnel.Core.dll
+C:\Users\Frank\Source\Workspaces\Funnel\Funnel.Core\Funnel.Core\obj\Debug\Funnel.Core.pdb
+C:\Users\Frank\Source\Workspaces\Funnel\Funnel.Core\Funnel.Core\bin\Debug\NLog.dll
+C:\Users\Frank\Source\Workspaces\Funnel\Funnel.Core\Funnel.Core\bin\Debug\NLog.xml
